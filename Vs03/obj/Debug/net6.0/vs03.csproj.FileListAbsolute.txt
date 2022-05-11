@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\vs03\bin\Debug\net6.0\vs03.exe
+C:\ConstrudelasAoVivo\vs03\bin\Debug\net6.0\vs03.deps.json
+C:\ConstrudelasAoVivo\vs03\bin\Debug\net6.0\vs03.runtimeconfig.json
+C:\ConstrudelasAoVivo\vs03\bin\Debug\net6.0\vs03.dll
+C:\ConstrudelasAoVivo\vs03\bin\Debug\net6.0\vs03.pdb
+C:\ConstrudelasAoVivo\vs03\obj\Debug\net6.0\vs03.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\vs03\obj\Debug\net6.0\vs03.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\vs03\obj\Debug\net6.0\vs03.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\vs03\obj\Debug\net6.0\vs03.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\vs03\obj\Debug\net6.0\vs03.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\vs03\obj\Debug\net6.0\vs03.dll
+C:\ConstrudelasAoVivo\vs03\obj\Debug\net6.0\refint\vs03.dll
+C:\ConstrudelasAoVivo\vs03\obj\Debug\net6.0\vs03.pdb
+C:\ConstrudelasAoVivo\vs03\obj\Debug\net6.0\vs03.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\vs03\obj\Debug\net6.0\ref\vs03.dll

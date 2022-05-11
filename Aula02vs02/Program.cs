@@ -1,0 +1,16 @@
+﻿uint ui = 100;
+float fl = 10.2f;
+long l = 45755452222222;
+ulong ul = 45755452222222;
+double d = 11452222.555;
+decimal mon = 1000.15m;
+string meuNome = "Cleide";
+char primeiraLetraDoMeuNome = 'C';
+Console.WriteLine(ui);
+Console.WriteLine(fl);
+Console.WriteLine(l);
+Console.WriteLine(ul);
+Console.WriteLine(d);
+Console.WriteLine(mon);
+Console.WriteLine(meuNome);
+Console.WriteLine(primeiraLetraDoMeuNome);

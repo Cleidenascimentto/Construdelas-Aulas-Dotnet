@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Adicionando dias nas datas/1.0.0": {
+        "runtime": {
+          "Adicionando dias nas datas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adicionando dias nas datas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

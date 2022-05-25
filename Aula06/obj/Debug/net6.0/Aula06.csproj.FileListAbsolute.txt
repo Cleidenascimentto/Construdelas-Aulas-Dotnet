@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula06\bin\Debug\net6.0\Aula06.exe
+C:\ConstrudelasAoVivo\Aula06\bin\Debug\net6.0\Aula06.deps.json
+C:\ConstrudelasAoVivo\Aula06\bin\Debug\net6.0\Aula06.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula06\bin\Debug\net6.0\Aula06.dll
+C:\ConstrudelasAoVivo\Aula06\bin\Debug\net6.0\Aula06.pdb
+C:\ConstrudelasAoVivo\Aula06\obj\Debug\net6.0\Aula06.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula06\obj\Debug\net6.0\Aula06.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula06\obj\Debug\net6.0\Aula06.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula06\obj\Debug\net6.0\Aula06.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula06\obj\Debug\net6.0\Aula06.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula06\obj\Debug\net6.0\Aula06.dll
+C:\ConstrudelasAoVivo\Aula06\obj\Debug\net6.0\refint\Aula06.dll
+C:\ConstrudelasAoVivo\Aula06\obj\Debug\net6.0\Aula06.pdb
+C:\ConstrudelasAoVivo\Aula06\obj\Debug\net6.0\Aula06.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula06\obj\Debug\net6.0\ref\Aula06.dll

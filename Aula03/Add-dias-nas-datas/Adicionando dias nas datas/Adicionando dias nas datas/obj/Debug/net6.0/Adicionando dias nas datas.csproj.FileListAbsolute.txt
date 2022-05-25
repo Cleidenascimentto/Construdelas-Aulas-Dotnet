@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\bin\Debug\net6.0\Adicionando dias nas datas.exe
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\bin\Debug\net6.0\Adicionando dias nas datas.deps.json
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\bin\Debug\net6.0\Adicionando dias nas datas.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\bin\Debug\net6.0\Adicionando dias nas datas.dll
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\bin\Debug\net6.0\Adicionando dias nas datas.pdb
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\obj\Debug\net6.0\Adicionando dias nas datas.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\obj\Debug\net6.0\Adicionando dias nas datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\obj\Debug\net6.0\Adicionando dias nas datas.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\obj\Debug\net6.0\Adicionando dias nas datas.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\obj\Debug\net6.0\Adicionando dias nas datas.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\obj\Debug\net6.0\Adicionando dias nas datas.dll
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\obj\Debug\net6.0\refint\Adicionando dias nas datas.dll
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\obj\Debug\net6.0\Adicionando dias nas datas.pdb
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\obj\Debug\net6.0\Adicionando dias nas datas.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\Add-dias-nas-datas\Adicionando dias nas datas\Adicionando dias nas datas\obj\Debug\net6.0\ref\Adicionando dias nas datas.dll

@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\bin\Debug\net6.0\CriandoDateTimeadddays2.exe
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\bin\Debug\net6.0\CriandoDateTimeadddays2.deps.json
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\bin\Debug\net6.0\CriandoDateTimeadddays2.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\bin\Debug\net6.0\CriandoDateTimeadddays2.dll
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\bin\Debug\net6.0\CriandoDateTimeadddays2.pdb
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\obj\Debug\net6.0\CriandoDateTimeadddays2.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\obj\Debug\net6.0\CriandoDateTimeadddays2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\obj\Debug\net6.0\CriandoDateTimeadddays2.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\obj\Debug\net6.0\CriandoDateTimeadddays2.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\obj\Debug\net6.0\CriandoDateTimeadddays2.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\obj\Debug\net6.0\CriandoDateTimeadddays2.dll
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\obj\Debug\net6.0\refint\CriandoDateTimeadddays2.dll
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\obj\Debug\net6.0\CriandoDateTimeadddays2.pdb
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\obj\Debug\net6.0\CriandoDateTimeadddays2.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\CriandoDateTimeadddays2\obj\Debug\net6.0\ref\CriandoDateTimeadddays2.dll

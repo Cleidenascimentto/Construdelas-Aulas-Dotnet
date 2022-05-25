@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\bin\Debug\net6.0\TrabalhandoComStrings.exe
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\bin\Debug\net6.0\TrabalhandoComStrings.deps.json
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\bin\Debug\net6.0\TrabalhandoComStrings.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\bin\Debug\net6.0\TrabalhandoComStrings.dll
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\bin\Debug\net6.0\TrabalhandoComStrings.pdb
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\obj\Debug\net6.0\TrabalhandoComStrings.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\obj\Debug\net6.0\TrabalhandoComStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\obj\Debug\net6.0\TrabalhandoComStrings.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\obj\Debug\net6.0\TrabalhandoComStrings.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\obj\Debug\net6.0\TrabalhandoComStrings.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\obj\Debug\net6.0\TrabalhandoComStrings.dll
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\obj\Debug\net6.0\refint\TrabalhandoComStrings.dll
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\obj\Debug\net6.0\TrabalhandoComStrings.pdb
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\obj\Debug\net6.0\TrabalhandoComStrings.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\TrabalhandoComStrings\obj\Debug\net6.0\ref\TrabalhandoComStrings.dll

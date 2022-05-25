@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\bin\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.exe
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\bin\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.deps.json
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\bin\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\bin\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.dll
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\bin\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.pdb
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\obj\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\obj\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\obj\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\obj\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\obj\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\obj\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.dll
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\obj\Debug\net6.0\refint\CriandoUmaDataComAnoMesHoraMinSeg.dll
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\obj\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.pdb
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\obj\Debug\net6.0\CriandoUmaDataComAnoMesHoraMinSeg.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\CriandoUmaDataComAnoMesHoraMinSeg\obj\Debug\net6.0\ref\CriandoUmaDataComAnoMesHoraMinSeg.dll

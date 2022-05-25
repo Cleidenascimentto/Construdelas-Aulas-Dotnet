@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\bin\Debug\net6.0\Criando data com dia atual.exe
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\bin\Debug\net6.0\Criando data com dia atual.deps.json
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\bin\Debug\net6.0\Criando data com dia atual.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\bin\Debug\net6.0\Criando data com dia atual.dll
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\bin\Debug\net6.0\Criando data com dia atual.pdb
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\obj\Debug\net6.0\Criando data com dia atual.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\obj\Debug\net6.0\Criando data com dia atual.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\obj\Debug\net6.0\Criando data com dia atual.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\obj\Debug\net6.0\Criando data com dia atual.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\obj\Debug\net6.0\Criando data com dia atual.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\obj\Debug\net6.0\Criando data com dia atual.dll
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\obj\Debug\net6.0\refint\Criando data com dia atual.dll
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\obj\Debug\net6.0\Criando data com dia atual.pdb
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\obj\Debug\net6.0\Criando data com dia atual.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\Criando-Data-de-hoje\Criando data com dia atual\Criando data com dia atual\obj\Debug\net6.0\ref\Criando data com dia atual.dll

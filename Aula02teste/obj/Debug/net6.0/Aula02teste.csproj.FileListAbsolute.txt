@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula02teste\bin\Debug\net6.0\Aula02teste.exe
+C:\ConstrudelasAoVivo\Aula02teste\bin\Debug\net6.0\Aula02teste.deps.json
+C:\ConstrudelasAoVivo\Aula02teste\bin\Debug\net6.0\Aula02teste.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula02teste\bin\Debug\net6.0\Aula02teste.dll
+C:\ConstrudelasAoVivo\Aula02teste\bin\Debug\net6.0\Aula02teste.pdb
+C:\ConstrudelasAoVivo\Aula02teste\obj\Debug\net6.0\Aula02teste.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula02teste\obj\Debug\net6.0\Aula02teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula02teste\obj\Debug\net6.0\Aula02teste.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula02teste\obj\Debug\net6.0\Aula02teste.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula02teste\obj\Debug\net6.0\Aula02teste.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula02teste\obj\Debug\net6.0\Aula02teste.dll
+C:\ConstrudelasAoVivo\Aula02teste\obj\Debug\net6.0\refint\Aula02teste.dll
+C:\ConstrudelasAoVivo\Aula02teste\obj\Debug\net6.0\Aula02teste.pdb
+C:\ConstrudelasAoVivo\Aula02teste\obj\Debug\net6.0\Aula02teste.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula02teste\obj\Debug\net6.0\ref\Aula02teste.dll

@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\bin\Debug\net6.0\Nova pasta.exe
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\bin\Debug\net6.0\Nova pasta.deps.json
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\bin\Debug\net6.0\Nova pasta.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\bin\Debug\net6.0\Nova pasta.dll
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\bin\Debug\net6.0\Nova pasta.pdb
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\obj\Debug\net6.0\Nova pasta.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\obj\Debug\net6.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\obj\Debug\net6.0\Nova pasta.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\obj\Debug\net6.0\Nova pasta.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\obj\Debug\net6.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\obj\Debug\net6.0\Nova pasta.dll
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\obj\Debug\net6.0\refint\Nova pasta.dll
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\obj\Debug\net6.0\Nova pasta.pdb
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\obj\Debug\net6.0\Nova pasta.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\Nova pasta\obj\Debug\net6.0\ref\Nova pasta.dll

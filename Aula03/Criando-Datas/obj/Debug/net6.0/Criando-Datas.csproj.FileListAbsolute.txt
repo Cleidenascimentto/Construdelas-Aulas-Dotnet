@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\bin\Debug\net6.0\Criando-Datas.exe
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\bin\Debug\net6.0\Criando-Datas.deps.json
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\bin\Debug\net6.0\Criando-Datas.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\bin\Debug\net6.0\Criando-Datas.dll
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\bin\Debug\net6.0\Criando-Datas.pdb
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\obj\Debug\net6.0\Criando-Datas.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\obj\Debug\net6.0\Criando-Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\obj\Debug\net6.0\Criando-Datas.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\obj\Debug\net6.0\Criando-Datas.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\obj\Debug\net6.0\Criando-Datas.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\obj\Debug\net6.0\Criando-Datas.dll
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\obj\Debug\net6.0\refint\Criando-Datas.dll
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\obj\Debug\net6.0\Criando-Datas.pdb
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\obj\Debug\net6.0\Criando-Datas.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\Criando-Datas\obj\Debug\net6.0\ref\Criando-Datas.dll

@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\obj\Debug\net6.0\ConcaternarStringmaisRapido.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\obj\Debug\net6.0\ConcaternarStringmaisRapido.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\obj\Debug\net6.0\ConcaternarStringmaisRapido.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\obj\Debug\net6.0\ConcaternarStringmaisRapido.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\obj\Debug\net6.0\ConcaternarStringmaisRapido.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\bin\Debug\net6.0\ConcaternarStringmaisRapido.exe
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\bin\Debug\net6.0\ConcaternarStringmaisRapido.deps.json
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\bin\Debug\net6.0\ConcaternarStringmaisRapido.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\bin\Debug\net6.0\ConcaternarStringmaisRapido.dll
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\bin\Debug\net6.0\ConcaternarStringmaisRapido.pdb
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\obj\Debug\net6.0\ConcaternarStringmaisRapido.dll
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\obj\Debug\net6.0\refint\ConcaternarStringmaisRapido.dll
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\obj\Debug\net6.0\ConcaternarStringmaisRapido.pdb
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\obj\Debug\net6.0\ConcaternarStringmaisRapido.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\ConcaternarStringmaisRapido\obj\Debug\net6.0\ref\ConcaternarStringmaisRapido.dll

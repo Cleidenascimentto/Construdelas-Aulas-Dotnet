@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\bin\Debug\net6.0\ComparandoStrings.exe
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\bin\Debug\net6.0\ComparandoStrings.deps.json
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\bin\Debug\net6.0\ComparandoStrings.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\bin\Debug\net6.0\ComparandoStrings.dll
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\bin\Debug\net6.0\ComparandoStrings.pdb
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\obj\Debug\net6.0\ComparandoStrings.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\obj\Debug\net6.0\ComparandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\obj\Debug\net6.0\ComparandoStrings.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\obj\Debug\net6.0\ComparandoStrings.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\obj\Debug\net6.0\ComparandoStrings.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\obj\Debug\net6.0\ComparandoStrings.dll
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\obj\Debug\net6.0\refint\ComparandoStrings.dll
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\obj\Debug\net6.0\ComparandoStrings.pdb
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\obj\Debug\net6.0\ComparandoStrings.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\ComparandoStrings\obj\Debug\net6.0\ref\ComparandoStrings.dll

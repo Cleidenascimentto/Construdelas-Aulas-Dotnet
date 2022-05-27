@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\bin\Debug\net6.0\Imprimindo-dia-mes-ano.exe
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\bin\Debug\net6.0\Imprimindo-dia-mes-ano.deps.json
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\bin\Debug\net6.0\Imprimindo-dia-mes-ano.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\bin\Debug\net6.0\Imprimindo-dia-mes-ano.dll
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\bin\Debug\net6.0\Imprimindo-dia-mes-ano.pdb
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\obj\Debug\net6.0\Imprimindo-dia-mes-ano.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\obj\Debug\net6.0\Imprimindo-dia-mes-ano.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\obj\Debug\net6.0\Imprimindo-dia-mes-ano.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\obj\Debug\net6.0\Imprimindo-dia-mes-ano.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\obj\Debug\net6.0\Imprimindo-dia-mes-ano.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\obj\Debug\net6.0\Imprimindo-dia-mes-ano.dll
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\obj\Debug\net6.0\refint\Imprimindo-dia-mes-ano.dll
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\obj\Debug\net6.0\Imprimindo-dia-mes-ano.pdb
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\obj\Debug\net6.0\Imprimindo-dia-mes-ano.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\Imprimindo-dia-mes-ano\obj\Debug\net6.0\ref\Imprimindo-dia-mes-ano.dll

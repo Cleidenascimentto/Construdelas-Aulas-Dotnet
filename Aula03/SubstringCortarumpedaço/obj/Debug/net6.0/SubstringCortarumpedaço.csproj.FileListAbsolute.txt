@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\obj\Debug\net6.0\SubstringCortarumpedaço.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\obj\Debug\net6.0\SubstringCortarumpedaço.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\obj\Debug\net6.0\SubstringCortarumpedaço.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\obj\Debug\net6.0\SubstringCortarumpedaço.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\obj\Debug\net6.0\SubstringCortarumpedaço.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\bin\Debug\net6.0\SubstringCortarumpedaço.exe
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\bin\Debug\net6.0\SubstringCortarumpedaço.deps.json
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\bin\Debug\net6.0\SubstringCortarumpedaço.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\bin\Debug\net6.0\SubstringCortarumpedaço.dll
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\bin\Debug\net6.0\SubstringCortarumpedaço.pdb
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\obj\Debug\net6.0\SubstringCortarumpedaço.dll
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\obj\Debug\net6.0\refint\SubstringCortarumpedaço.dll
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\obj\Debug\net6.0\SubstringCortarumpedaço.pdb
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\obj\Debug\net6.0\SubstringCortarumpedaço.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\SubstringCortarumpedaço\obj\Debug\net6.0\ref\SubstringCortarumpedaço.dll

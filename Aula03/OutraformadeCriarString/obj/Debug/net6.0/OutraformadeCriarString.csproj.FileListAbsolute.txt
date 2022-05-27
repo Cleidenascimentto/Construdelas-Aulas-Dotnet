@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\bin\Debug\net6.0\OutraformadeCriarString.exe
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\bin\Debug\net6.0\OutraformadeCriarString.deps.json
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\bin\Debug\net6.0\OutraformadeCriarString.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\bin\Debug\net6.0\OutraformadeCriarString.dll
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\bin\Debug\net6.0\OutraformadeCriarString.pdb
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\obj\Debug\net6.0\OutraformadeCriarString.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\obj\Debug\net6.0\OutraformadeCriarString.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\obj\Debug\net6.0\OutraformadeCriarString.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\obj\Debug\net6.0\OutraformadeCriarString.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\obj\Debug\net6.0\OutraformadeCriarString.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\obj\Debug\net6.0\OutraformadeCriarString.dll
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\obj\Debug\net6.0\refint\OutraformadeCriarString.dll
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\obj\Debug\net6.0\OutraformadeCriarString.pdb
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\obj\Debug\net6.0\OutraformadeCriarString.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\OutraformadeCriarString\obj\Debug\net6.0\ref\OutraformadeCriarString.dll

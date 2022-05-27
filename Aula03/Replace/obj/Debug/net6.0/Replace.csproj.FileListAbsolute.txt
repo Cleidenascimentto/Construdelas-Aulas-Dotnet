@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\Replace\bin\Debug\net6.0\Replace.exe
+C:\ConstrudelasAoVivo\Aula03\Replace\bin\Debug\net6.0\Replace.deps.json
+C:\ConstrudelasAoVivo\Aula03\Replace\bin\Debug\net6.0\Replace.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\Replace\bin\Debug\net6.0\Replace.dll
+C:\ConstrudelasAoVivo\Aula03\Replace\bin\Debug\net6.0\Replace.pdb
+C:\ConstrudelasAoVivo\Aula03\Replace\obj\Debug\net6.0\Replace.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\Replace\obj\Debug\net6.0\Replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\Replace\obj\Debug\net6.0\Replace.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Replace\obj\Debug\net6.0\Replace.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\Replace\obj\Debug\net6.0\Replace.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Replace\obj\Debug\net6.0\Replace.dll
+C:\ConstrudelasAoVivo\Aula03\Replace\obj\Debug\net6.0\refint\Replace.dll
+C:\ConstrudelasAoVivo\Aula03\Replace\obj\Debug\net6.0\Replace.pdb
+C:\ConstrudelasAoVivo\Aula03\Replace\obj\Debug\net6.0\Replace.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\Replace\obj\Debug\net6.0\ref\Replace.dll

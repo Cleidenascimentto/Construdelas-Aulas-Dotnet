@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\bin\Debug\net6.0\Substring.exe
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\bin\Debug\net6.0\Substring.deps.json
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\bin\Debug\net6.0\Substring.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\bin\Debug\net6.0\Substring.dll
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\bin\Debug\net6.0\Substring.pdb
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\obj\Debug\net6.0\Substring.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\obj\Debug\net6.0\Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\obj\Debug\net6.0\Substring.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\obj\Debug\net6.0\Substring.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\obj\Debug\net6.0\Substring.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\obj\Debug\net6.0\Substring.dll
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\obj\Debug\net6.0\refint\Substring.dll
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\obj\Debug\net6.0\Substring.pdb
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\obj\Debug\net6.0\Substring.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\Substring\Substring\obj\Debug\net6.0\ref\Substring.dll

@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\obj\Debug\net6.0\Exerciciousuariodigita.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\obj\Debug\net6.0\Exerciciousuariodigita.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\obj\Debug\net6.0\Exerciciousuariodigita.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\obj\Debug\net6.0\Exerciciousuariodigita.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\obj\Debug\net6.0\Exerciciousuariodigita.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\bin\Debug\net6.0\Exerciciousuariodigita.exe
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\bin\Debug\net6.0\Exerciciousuariodigita.deps.json
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\bin\Debug\net6.0\Exerciciousuariodigita.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\bin\Debug\net6.0\Exerciciousuariodigita.dll
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\bin\Debug\net6.0\Exerciciousuariodigita.pdb
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\obj\Debug\net6.0\Exerciciousuariodigita.dll
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\obj\Debug\net6.0\refint\Exerciciousuariodigita.dll
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\obj\Debug\net6.0\Exerciciousuariodigita.pdb
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\obj\Debug\net6.0\Exerciciousuariodigita.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\Exerciciousuariodigita\obj\Debug\net6.0\ref\Exerciciousuariodigita.dll

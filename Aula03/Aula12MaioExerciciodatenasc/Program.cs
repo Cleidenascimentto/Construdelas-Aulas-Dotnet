@@ -9,8 +9,9 @@ var diaInteiro = Convert.ToInt32(dia);
 var mesInteiro = Convert.ToInt32(mes);
 var anoInteiro = Convert.ToInt32(ano);
 
-var dataDoAniversario = new DateTime(anoInteiro, mesInteiro, diaInteiro);
+var dataAniversario = new DateTime(anoInteiro, mesInteiro, diaInteiro);
 
-Console.WriteLine(dataDoAniversario.DayOfWeek);
-Console.WriteLine(dataDoAniversario.DayOfYear);
+Console.WriteLine(dataAniversario.DayOfWeek);
+Console.WriteLine(dataAniversario.DayOfYear);
+Console.WriteLine();
 

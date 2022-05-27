@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Imprimindo-dia-mes-ano/1.0.0": {
+        "runtime": {
+          "Imprimindo-dia-mes-ano.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Imprimindo-dia-mes-ano/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

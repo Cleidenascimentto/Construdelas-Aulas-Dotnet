@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\bin\Debug\net6.0\ComparandoStringscomComparetrue.exe
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\bin\Debug\net6.0\ComparandoStringscomComparetrue.deps.json
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\bin\Debug\net6.0\ComparandoStringscomComparetrue.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\bin\Debug\net6.0\ComparandoStringscomComparetrue.dll
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\bin\Debug\net6.0\ComparandoStringscomComparetrue.pdb
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\obj\Debug\net6.0\ComparandoStringscomComparetrue.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\obj\Debug\net6.0\ComparandoStringscomComparetrue.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\obj\Debug\net6.0\ComparandoStringscomComparetrue.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\obj\Debug\net6.0\ComparandoStringscomComparetrue.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\obj\Debug\net6.0\ComparandoStringscomComparetrue.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\obj\Debug\net6.0\ComparandoStringscomComparetrue.dll
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\obj\Debug\net6.0\refint\ComparandoStringscomComparetrue.dll
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\obj\Debug\net6.0\ComparandoStringscomComparetrue.pdb
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\obj\Debug\net6.0\ComparandoStringscomComparetrue.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\ComparandoStringscomComparetrue\obj\Debug\net6.0\ref\ComparandoStringscomComparetrue.dll

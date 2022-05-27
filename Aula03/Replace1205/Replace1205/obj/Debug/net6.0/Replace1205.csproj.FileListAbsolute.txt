@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\bin\Debug\net6.0\Replace1205.exe
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\bin\Debug\net6.0\Replace1205.deps.json
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\bin\Debug\net6.0\Replace1205.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\bin\Debug\net6.0\Replace1205.dll
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\bin\Debug\net6.0\Replace1205.pdb
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\obj\Debug\net6.0\Replace1205.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\obj\Debug\net6.0\Replace1205.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\obj\Debug\net6.0\Replace1205.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\obj\Debug\net6.0\Replace1205.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\obj\Debug\net6.0\Replace1205.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\obj\Debug\net6.0\Replace1205.dll
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\obj\Debug\net6.0\refint\Replace1205.dll
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\obj\Debug\net6.0\Replace1205.pdb
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\obj\Debug\net6.0\Replace1205.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\Replace1205\Replace1205\obj\Debug\net6.0\ref\Replace1205.dll

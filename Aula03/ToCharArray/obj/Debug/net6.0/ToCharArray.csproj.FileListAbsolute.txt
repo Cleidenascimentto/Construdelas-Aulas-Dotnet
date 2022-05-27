@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\bin\Debug\net6.0\ToCharArray.exe
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\bin\Debug\net6.0\ToCharArray.deps.json
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\bin\Debug\net6.0\ToCharArray.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\bin\Debug\net6.0\ToCharArray.dll
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\bin\Debug\net6.0\ToCharArray.pdb
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\obj\Debug\net6.0\ToCharArray.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\obj\Debug\net6.0\ToCharArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\obj\Debug\net6.0\ToCharArray.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\obj\Debug\net6.0\ToCharArray.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\obj\Debug\net6.0\ToCharArray.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\obj\Debug\net6.0\ToCharArray.dll
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\obj\Debug\net6.0\refint\ToCharArray.dll
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\obj\Debug\net6.0\ToCharArray.pdb
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\obj\Debug\net6.0\ToCharArray.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\ToCharArray\obj\Debug\net6.0\ref\ToCharArray.dll

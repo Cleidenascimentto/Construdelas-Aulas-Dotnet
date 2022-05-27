@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\bin\Debug\net6.0\stringIndexOf.exe
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\bin\Debug\net6.0\stringIndexOf.deps.json
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\bin\Debug\net6.0\stringIndexOf.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\bin\Debug\net6.0\stringIndexOf.dll
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\bin\Debug\net6.0\stringIndexOf.pdb
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\obj\Debug\net6.0\stringIndexOf.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\obj\Debug\net6.0\stringIndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\obj\Debug\net6.0\stringIndexOf.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\obj\Debug\net6.0\stringIndexOf.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\obj\Debug\net6.0\stringIndexOf.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\obj\Debug\net6.0\stringIndexOf.dll
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\obj\Debug\net6.0\refint\stringIndexOf.dll
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\obj\Debug\net6.0\stringIndexOf.pdb
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\obj\Debug\net6.0\stringIndexOf.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03\stringIndexOf\obj\Debug\net6.0\ref\stringIndexOf.dll

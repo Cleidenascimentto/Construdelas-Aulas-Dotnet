@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.exe
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.deps.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\obj\Debug\net6.0\refint\OperadoresLógicos.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\OperadoresLógicos\obj\Debug\net6.0\ref\OperadoresLógicos.dll

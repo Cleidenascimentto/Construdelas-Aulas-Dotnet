@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\bin\Debug\net6.0\Exercicio2Aula03.exe
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\bin\Debug\net6.0\Exercicio2Aula03.deps.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\bin\Debug\net6.0\Exercicio2Aula03.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\bin\Debug\net6.0\Exercicio2Aula03.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\bin\Debug\net6.0\Exercicio2Aula03.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\obj\Debug\net6.0\Exercicio2Aula03.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\obj\Debug\net6.0\Exercicio2Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\obj\Debug\net6.0\Exercicio2Aula03.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\obj\Debug\net6.0\Exercicio2Aula03.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\obj\Debug\net6.0\Exercicio2Aula03.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\obj\Debug\net6.0\Exercicio2Aula03.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\obj\Debug\net6.0\refint\Exercicio2Aula03.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\obj\Debug\net6.0\Exercicio2Aula03.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\obj\Debug\net6.0\Exercicio2Aula03.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio2Aula03\obj\Debug\net6.0\ref\Exercicio2Aula03.dll

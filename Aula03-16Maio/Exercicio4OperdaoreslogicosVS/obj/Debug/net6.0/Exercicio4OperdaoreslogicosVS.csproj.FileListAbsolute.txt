@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\obj\Debug\net6.0\Exercicio4OperdaoreslogicosVS.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\obj\Debug\net6.0\Exercicio4OperdaoreslogicosVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\obj\Debug\net6.0\Exercicio4OperdaoreslogicosVS.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\obj\Debug\net6.0\Exercicio4OperdaoreslogicosVS.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\obj\Debug\net6.0\Exercicio4OperdaoreslogicosVS.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\bin\Debug\net6.0\Exercicio4OperdaoreslogicosVS.exe
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\bin\Debug\net6.0\Exercicio4OperdaoreslogicosVS.deps.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\bin\Debug\net6.0\Exercicio4OperdaoreslogicosVS.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\bin\Debug\net6.0\Exercicio4OperdaoreslogicosVS.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\bin\Debug\net6.0\Exercicio4OperdaoreslogicosVS.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\obj\Debug\net6.0\Exercicio4OperdaoreslogicosVS.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\obj\Debug\net6.0\refint\Exercicio4OperdaoreslogicosVS.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\obj\Debug\net6.0\Exercicio4OperdaoreslogicosVS.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\obj\Debug\net6.0\Exercicio4OperdaoreslogicosVS.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio4OperdaoreslogicosVS\obj\Debug\net6.0\ref\Exercicio4OperdaoreslogicosVS.dll

@@ -1,0 +1,5 @@
+C:\ConstrudelasAoVivo\Aula03-16Maio\ErrosCompilacaoExecucao\obj\Debug\net6.0\ErrosCompilacaoExecucao.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\ErrosCompilacaoExecucao\obj\Debug\net6.0\ErrosCompilacaoExecucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03-16Maio\ErrosCompilacaoExecucao\obj\Debug\net6.0\ErrosCompilacaoExecucao.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\ErrosCompilacaoExecucao\obj\Debug\net6.0\ErrosCompilacaoExecucao.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03-16Maio\ErrosCompilacaoExecucao\obj\Debug\net6.0\ErrosCompilacaoExecucao.csproj.CoreCompileInputs.cache

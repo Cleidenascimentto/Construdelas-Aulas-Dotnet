@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\bin\Debug\net6.0\LidarcomErros.exe
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\bin\Debug\net6.0\LidarcomErros.deps.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\bin\Debug\net6.0\LidarcomErros.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\bin\Debug\net6.0\LidarcomErros.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\bin\Debug\net6.0\LidarcomErros.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\obj\Debug\net6.0\LidarcomErros.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\obj\Debug\net6.0\LidarcomErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\obj\Debug\net6.0\LidarcomErros.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\obj\Debug\net6.0\LidarcomErros.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\obj\Debug\net6.0\LidarcomErros.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\obj\Debug\net6.0\LidarcomErros.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\obj\Debug\net6.0\refint\LidarcomErros.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\obj\Debug\net6.0\LidarcomErros.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\obj\Debug\net6.0\LidarcomErros.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarcomErros\obj\Debug\net6.0\ref\LidarcomErros.dll

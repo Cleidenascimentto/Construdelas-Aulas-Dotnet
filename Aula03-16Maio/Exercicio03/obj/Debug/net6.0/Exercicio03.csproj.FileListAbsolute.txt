@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\bin\Debug\net6.0\Exercicio03.exe
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\bin\Debug\net6.0\Exercicio03.deps.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\bin\Debug\net6.0\Exercicio03.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\bin\Debug\net6.0\Exercicio03.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\bin\Debug\net6.0\Exercicio03.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\obj\Debug\net6.0\Exercicio03.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\obj\Debug\net6.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\obj\Debug\net6.0\Exercicio03.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\obj\Debug\net6.0\Exercicio03.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\obj\Debug\net6.0\Exercicio03.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\obj\Debug\net6.0\Exercicio03.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\obj\Debug\net6.0\refint\Exercicio03.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\obj\Debug\net6.0\Exercicio03.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\obj\Debug\net6.0\Exercicio03.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\Exercicio03\obj\Debug\net6.0\ref\Exercicio03.dll

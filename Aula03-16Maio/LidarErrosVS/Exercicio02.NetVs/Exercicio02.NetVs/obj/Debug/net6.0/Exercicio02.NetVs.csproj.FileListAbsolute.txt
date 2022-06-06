@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\bin\Debug\net6.0\Exercicio02.NetVs.exe
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\bin\Debug\net6.0\Exercicio02.NetVs.deps.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\bin\Debug\net6.0\Exercicio02.NetVs.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\bin\Debug\net6.0\Exercicio02.NetVs.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\bin\Debug\net6.0\Exercicio02.NetVs.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\obj\Debug\net6.0\Exercicio02.NetVs.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\obj\Debug\net6.0\Exercicio02.NetVs.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\obj\Debug\net6.0\Exercicio02.NetVs.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\obj\Debug\net6.0\Exercicio02.NetVs.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\obj\Debug\net6.0\Exercicio02.NetVs.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\obj\Debug\net6.0\Exercicio02.NetVs.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\obj\Debug\net6.0\refint\Exercicio02.NetVs.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\obj\Debug\net6.0\Exercicio02.NetVs.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\obj\Debug\net6.0\Exercicio02.NetVs.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\LidarErrosVS\Exercicio02.NetVs\Exercicio02.NetVs\obj\Debug\net6.0\ref\Exercicio02.NetVs.dll

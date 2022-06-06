@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\bin\Debug\net6.0\MaisOperadoresAritmeticos.exe
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\bin\Debug\net6.0\MaisOperadoresAritmeticos.deps.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\bin\Debug\net6.0\MaisOperadoresAritmeticos.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\bin\Debug\net6.0\MaisOperadoresAritmeticos.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\bin\Debug\net6.0\MaisOperadoresAritmeticos.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\obj\Debug\net6.0\MaisOperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\obj\Debug\net6.0\MaisOperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\obj\Debug\net6.0\MaisOperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\obj\Debug\net6.0\MaisOperadoresAritmeticos.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\obj\Debug\net6.0\MaisOperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\obj\Debug\net6.0\MaisOperadoresAritmeticos.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\obj\Debug\net6.0\refint\MaisOperadoresAritmeticos.dll
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\obj\Debug\net6.0\MaisOperadoresAritmeticos.pdb
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\obj\Debug\net6.0\MaisOperadoresAritmeticos.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula03-16Maio\MaisOperadoresAritmeticos\obj\Debug\net6.0\ref\MaisOperadoresAritmeticos.dll

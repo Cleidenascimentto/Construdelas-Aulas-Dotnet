@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\bin\Debug\net6.0\CondicoesIfElse.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\bin\Debug\net6.0\CondicoesIfElse.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\bin\Debug\net6.0\CondicoesIfElse.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\bin\Debug\net6.0\CondicoesIfElse.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\bin\Debug\net6.0\CondicoesIfElse.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\obj\Debug\net6.0\CondicoesIfElse.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\obj\Debug\net6.0\CondicoesIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\obj\Debug\net6.0\CondicoesIfElse.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\obj\Debug\net6.0\CondicoesIfElse.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\obj\Debug\net6.0\CondicoesIfElse.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\obj\Debug\net6.0\CondicoesIfElse.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\obj\Debug\net6.0\refint\CondicoesIfElse.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\obj\Debug\net6.0\CondicoesIfElse.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\obj\Debug\net6.0\CondicoesIfElse.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\CondicoesIfElse\obj\Debug\net6.0\ref\CondicoesIfElse.dll

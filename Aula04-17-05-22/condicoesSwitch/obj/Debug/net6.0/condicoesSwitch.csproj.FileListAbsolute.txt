@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\bin\Debug\net6.0\condicoesSwitch.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\bin\Debug\net6.0\condicoesSwitch.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\bin\Debug\net6.0\condicoesSwitch.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\bin\Debug\net6.0\condicoesSwitch.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\bin\Debug\net6.0\condicoesSwitch.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\obj\Debug\net6.0\condicoesSwitch.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\obj\Debug\net6.0\condicoesSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\obj\Debug\net6.0\condicoesSwitch.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\obj\Debug\net6.0\condicoesSwitch.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\obj\Debug\net6.0\condicoesSwitch.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\obj\Debug\net6.0\condicoesSwitch.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\obj\Debug\net6.0\refint\condicoesSwitch.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\obj\Debug\net6.0\condicoesSwitch.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\obj\Debug\net6.0\condicoesSwitch.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\condicoesSwitch\obj\Debug\net6.0\ref\condicoesSwitch.dll

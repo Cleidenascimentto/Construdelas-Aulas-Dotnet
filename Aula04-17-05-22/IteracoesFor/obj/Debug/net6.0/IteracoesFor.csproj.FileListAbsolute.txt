@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\bin\Debug\net6.0\IteracoesFor.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\bin\Debug\net6.0\IteracoesFor.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\bin\Debug\net6.0\IteracoesFor.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\bin\Debug\net6.0\IteracoesFor.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\bin\Debug\net6.0\IteracoesFor.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\obj\Debug\net6.0\IteracoesFor.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\obj\Debug\net6.0\IteracoesFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\obj\Debug\net6.0\IteracoesFor.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\obj\Debug\net6.0\IteracoesFor.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\obj\Debug\net6.0\IteracoesFor.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\obj\Debug\net6.0\IteracoesFor.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\obj\Debug\net6.0\refint\IteracoesFor.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\obj\Debug\net6.0\IteracoesFor.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\obj\Debug\net6.0\IteracoesFor.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IteracoesFor\obj\Debug\net6.0\ref\IteracoesFor.dll

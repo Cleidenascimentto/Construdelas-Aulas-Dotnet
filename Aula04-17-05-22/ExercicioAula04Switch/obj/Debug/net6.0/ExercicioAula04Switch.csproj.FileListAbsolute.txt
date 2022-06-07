@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\obj\Debug\net6.0\ExercicioAula04Switch.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\obj\Debug\net6.0\ExercicioAula04Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\obj\Debug\net6.0\ExercicioAula04Switch.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\obj\Debug\net6.0\ExercicioAula04Switch.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\obj\Debug\net6.0\ExercicioAula04Switch.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\bin\Debug\net6.0\ExercicioAula04Switch.exe
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\bin\Debug\net6.0\ExercicioAula04Switch.deps.json
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\bin\Debug\net6.0\ExercicioAula04Switch.runtimeconfig.json
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\bin\Debug\net6.0\ExercicioAula04Switch.dll
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\bin\Debug\net6.0\ExercicioAula04Switch.pdb
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\obj\Debug\net6.0\ExercicioAula04Switch.dll
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\obj\Debug\net6.0\refint\ExercicioAula04Switch.dll
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\obj\Debug\net6.0\ExercicioAula04Switch.pdb
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\obj\Debug\net6.0\ExercicioAula04Switch.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\aula04-17-05-22\ExercicioAula04Switch\obj\Debug\net6.0\ref\ExercicioAula04Switch.dll

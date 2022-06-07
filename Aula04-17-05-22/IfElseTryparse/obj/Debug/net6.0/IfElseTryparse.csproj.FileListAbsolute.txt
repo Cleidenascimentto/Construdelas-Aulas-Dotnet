@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\obj\Debug\net6.0\IfElseTryparse.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\obj\Debug\net6.0\IfElseTryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\obj\Debug\net6.0\IfElseTryparse.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\obj\Debug\net6.0\IfElseTryparse.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\obj\Debug\net6.0\IfElseTryparse.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\bin\Debug\net6.0\IfElseTryparse.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\bin\Debug\net6.0\IfElseTryparse.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\bin\Debug\net6.0\IfElseTryparse.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\bin\Debug\net6.0\IfElseTryparse.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\bin\Debug\net6.0\IfElseTryparse.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\obj\Debug\net6.0\IfElseTryparse.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\obj\Debug\net6.0\refint\IfElseTryparse.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\obj\Debug\net6.0\IfElseTryparse.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\obj\Debug\net6.0\IfElseTryparse.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\IfElseTryparse\obj\Debug\net6.0\ref\IfElseTryparse.dll

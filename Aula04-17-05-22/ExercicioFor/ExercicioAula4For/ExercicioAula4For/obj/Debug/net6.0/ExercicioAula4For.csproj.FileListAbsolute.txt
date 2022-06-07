@@ -1,0 +1,5 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFor\ExercicioAula4For\ExercicioAula4For\obj\Debug\net6.0\ExercicioAula4For.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFor\ExercicioAula4For\ExercicioAula4For\obj\Debug\net6.0\ExercicioAula4For.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFor\ExercicioAula4For\ExercicioAula4For\obj\Debug\net6.0\ExercicioAula4For.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFor\ExercicioAula4For\ExercicioAula4For\obj\Debug\net6.0\ExercicioAula4For.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFor\ExercicioAula4For\ExercicioAula4For\obj\Debug\net6.0\ExercicioAula4For.csproj.CoreCompileInputs.cache

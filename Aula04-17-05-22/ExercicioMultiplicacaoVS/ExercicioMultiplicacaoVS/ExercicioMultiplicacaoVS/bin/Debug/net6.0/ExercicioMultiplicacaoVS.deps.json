@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioMultiplicacaoVS/1.0.0": {
+        "runtime": {
+          "ExercicioMultiplicacaoVS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioMultiplicacaoVS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\bin\Debug\net6.0\ExercicioMultiplicacaoVS.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\bin\Debug\net6.0\ExercicioMultiplicacaoVS.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\bin\Debug\net6.0\ExercicioMultiplicacaoVS.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\bin\Debug\net6.0\ExercicioMultiplicacaoVS.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\bin\Debug\net6.0\ExercicioMultiplicacaoVS.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\obj\Debug\net6.0\ExercicioMultiplicacaoVS.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\obj\Debug\net6.0\ExercicioMultiplicacaoVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\obj\Debug\net6.0\ExercicioMultiplicacaoVS.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\obj\Debug\net6.0\ExercicioMultiplicacaoVS.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\obj\Debug\net6.0\ExercicioMultiplicacaoVS.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\obj\Debug\net6.0\ExercicioMultiplicacaoVS.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\obj\Debug\net6.0\refint\ExercicioMultiplicacaoVS.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\obj\Debug\net6.0\ExercicioMultiplicacaoVS.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\obj\Debug\net6.0\ExercicioMultiplicacaoVS.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\ExercicioMultiplicacaoVS\obj\Debug\net6.0\ref\ExercicioMultiplicacaoVS.dll

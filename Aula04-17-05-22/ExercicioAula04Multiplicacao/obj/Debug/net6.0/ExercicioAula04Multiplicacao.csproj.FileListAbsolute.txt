@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\bin\Debug\net6.0\ExercicioAula04Multiplicacao.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\bin\Debug\net6.0\ExercicioAula04Multiplicacao.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\bin\Debug\net6.0\ExercicioAula04Multiplicacao.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\bin\Debug\net6.0\ExercicioAula04Multiplicacao.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\bin\Debug\net6.0\ExercicioAula04Multiplicacao.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\obj\Debug\net6.0\ExercicioAula04Multiplicacao.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\obj\Debug\net6.0\ExercicioAula04Multiplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\obj\Debug\net6.0\ExercicioAula04Multiplicacao.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\obj\Debug\net6.0\ExercicioAula04Multiplicacao.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\obj\Debug\net6.0\ExercicioAula04Multiplicacao.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\obj\Debug\net6.0\ExercicioAula04Multiplicacao.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\obj\Debug\net6.0\refint\ExercicioAula04Multiplicacao.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\obj\Debug\net6.0\ExercicioAula04Multiplicacao.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\obj\Debug\net6.0\ExercicioAula04Multiplicacao.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioAula04Multiplicacao\obj\Debug\net6.0\ref\ExercicioAula04Multiplicacao.dll

@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\bin\Debug\net6.0\InteracoesWhile.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\bin\Debug\net6.0\InteracoesWhile.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\bin\Debug\net6.0\InteracoesWhile.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\bin\Debug\net6.0\InteracoesWhile.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\bin\Debug\net6.0\InteracoesWhile.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\obj\Debug\net6.0\InteracoesWhile.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\obj\Debug\net6.0\InteracoesWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\obj\Debug\net6.0\InteracoesWhile.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\obj\Debug\net6.0\InteracoesWhile.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\obj\Debug\net6.0\InteracoesWhile.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\obj\Debug\net6.0\InteracoesWhile.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\obj\Debug\net6.0\refint\InteracoesWhile.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\obj\Debug\net6.0\InteracoesWhile.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\obj\Debug\net6.0\InteracoesWhile.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesWhile\obj\Debug\net6.0\ref\InteracoesWhile.dll

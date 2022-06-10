@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioFr\ExercicioForechArrayVS\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

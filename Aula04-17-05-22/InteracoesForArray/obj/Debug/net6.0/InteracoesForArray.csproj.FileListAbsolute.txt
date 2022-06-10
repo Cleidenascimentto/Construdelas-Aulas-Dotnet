@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\bin\Debug\net6.0\InteracoesForArray.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\bin\Debug\net6.0\InteracoesForArray.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\bin\Debug\net6.0\InteracoesForArray.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\bin\Debug\net6.0\InteracoesForArray.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\bin\Debug\net6.0\InteracoesForArray.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\obj\Debug\net6.0\InteracoesForArray.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\obj\Debug\net6.0\InteracoesForArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\obj\Debug\net6.0\InteracoesForArray.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\obj\Debug\net6.0\InteracoesForArray.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\obj\Debug\net6.0\InteracoesForArray.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\obj\Debug\net6.0\InteracoesForArray.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\obj\Debug\net6.0\refint\InteracoesForArray.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\obj\Debug\net6.0\InteracoesForArray.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\obj\Debug\net6.0\InteracoesForArray.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForArray\obj\Debug\net6.0\ref\InteracoesForArray.dll

@@ -11,5 +11,8 @@ int multiplicacao = 0;
 for (int i = 0; 1 < numeroB; i++)
 {
     multiplicacao += numeroA;
+    
 }
 Console.WriteLine(multiplicacao);
+
+

@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\obj\Debug\net6.0\ExercicioForeachCharArray.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\obj\Debug\net6.0\ExercicioForeachCharArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\obj\Debug\net6.0\ExercicioForeachCharArray.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\obj\Debug\net6.0\ExercicioForeachCharArray.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\obj\Debug\net6.0\ExercicioForeachCharArray.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\bin\Debug\net6.0\ExercicioForeachCharArray.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\bin\Debug\net6.0\ExercicioForeachCharArray.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\bin\Debug\net6.0\ExercicioForeachCharArray.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\bin\Debug\net6.0\ExercicioForeachCharArray.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\bin\Debug\net6.0\ExercicioForeachCharArray.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\obj\Debug\net6.0\ExercicioForeachCharArray.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\obj\Debug\net6.0\refint\ExercicioForeachCharArray.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\obj\Debug\net6.0\ExercicioForeachCharArray.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\obj\Debug\net6.0\ExercicioForeachCharArray.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\ExercicioForeachCharArray\obj\Debug\net6.0\ref\ExercicioForeachCharArray.dll

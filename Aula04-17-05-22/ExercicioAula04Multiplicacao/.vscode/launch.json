@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/bin/Debug/net6.0/ExercicioAula04Multiplicacao.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "integratedterminal",
+            "console": "externalterminal",
             "stopAtEntry": false
         },
         {

@@ -1,0 +1,15 @@
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\bin\Debug\net6.0\InteracoesForListInt.exe
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\bin\Debug\net6.0\InteracoesForListInt.deps.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\bin\Debug\net6.0\InteracoesForListInt.runtimeconfig.json
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\bin\Debug\net6.0\InteracoesForListInt.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\bin\Debug\net6.0\InteracoesForListInt.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\obj\Debug\net6.0\InteracoesForListInt.csproj.AssemblyReference.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\obj\Debug\net6.0\InteracoesForListInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\obj\Debug\net6.0\InteracoesForListInt.AssemblyInfoInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\obj\Debug\net6.0\InteracoesForListInt.AssemblyInfo.cs
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\obj\Debug\net6.0\InteracoesForListInt.csproj.CoreCompileInputs.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\obj\Debug\net6.0\InteracoesForListInt.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\obj\Debug\net6.0\refint\InteracoesForListInt.dll
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\obj\Debug\net6.0\InteracoesForListInt.pdb
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\obj\Debug\net6.0\InteracoesForListInt.genruntimeconfig.cache
+C:\ConstrudelasAoVivo\Aula04-17-05-22\InteracoesForListInt\obj\Debug\net6.0\ref\InteracoesForListInt.dll

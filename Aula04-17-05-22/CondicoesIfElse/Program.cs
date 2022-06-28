@@ -6,4 +6,4 @@ if(nome != "Cleide")
 Console.WriteLine("Você é uma aluna C#");
 
 else
-Console.WriteLine("Você é a professora" C#");
+Console.WriteLine("Você é a professora C#");
